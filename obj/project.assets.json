@@ -12716,11 +12716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/firezdog/Documents/CodingDojo/c-sharp/Intermediate ASP.NET Core/movieAPI/movieAPI.csproj",
+      "projectUniqueName": "/home/firezdog/Documents/CodingDojo/azureDatabaseDeployment/MovieAPI/movieAPI.csproj",
       "projectName": "movieAPI",
-      "projectPath": "/home/firezdog/Documents/CodingDojo/c-sharp/Intermediate ASP.NET Core/movieAPI/movieAPI.csproj",
+      "projectPath": "/home/firezdog/Documents/CodingDojo/azureDatabaseDeployment/MovieAPI/movieAPI.csproj",
       "packagesPath": "/home/firezdog/.nuget/packages/",
-      "outputPath": "/home/firezdog/Documents/CodingDojo/c-sharp/Intermediate ASP.NET Core/movieAPI/obj/",
+      "outputPath": "/home/firezdog/Documents/CodingDojo/azureDatabaseDeployment/MovieAPI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
